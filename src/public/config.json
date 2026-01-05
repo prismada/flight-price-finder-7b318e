@@ -1,0 +1,8 @@
+{
+  "name": "Flight Price Finder",
+  "tagline": "Find the cheapest flights between any two cities",
+  "example": "Find me the cheapest flights from New York to London next month",
+  "buttonText": "Search",
+  "workingText": "Searching...",
+  "statusText": "Flight Price Finder is working..."
+}
